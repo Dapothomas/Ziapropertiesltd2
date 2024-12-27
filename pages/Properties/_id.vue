@@ -34,7 +34,7 @@ export default {
     
     const slides = property ? property.images || [] : [];
     const formattedAddress = property ? encodeURIComponent(property.location) : '';
-    const googleMapsUrl = `https://www.google.com/maps/embed/v1/place?key=AIzaSyDZ9fTWN2psoqnHAwNvyJF6LeVg2RQalaA&q=${formattedAddress}`;
+    const googleMapsUrl = `{YOURAPIKEY}=${formattedAddress}`;
     return { property, slides, googleMapsUrl };
   } catch (error) {
     console.error('Error fetching property:', error);

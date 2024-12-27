@@ -9,7 +9,7 @@ import Email from '~/static/svg/email.vue';
     components: {ButtonLink, Name, Message, Phone, Email},
     mounted() {
     if (typeof window !== 'undefined' && window.emailjs) {
-      window.emailjs.init("6_qQeeQBRva8qMqj0");
+      window.emailjs.init("YOURINITKEY");
     }
   },
     data() {
@@ -31,7 +31,7 @@ import Email from '~/static/svg/email.vue';
           message: this.form.message,
         };
   
-        window.emailjs.send('service_gdgz9qb', 'template_jr13fbk', emailParams)
+        window.emailjs.send('YOURSERVICEKEY', 'YOURTEMPLATEKEY', emailParams)
           .then((response) => {
             alert('Email sent successfully!');
             this.clearForm();
