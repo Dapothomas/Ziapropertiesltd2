@@ -6,7 +6,7 @@
           ABOUT US
         </h1>
       </div>
-            <h1 class="abouth0">Integrity First, Real Estate Excellence Always.</h1>
+            <h1 class="abouth0">Integrity First, Real Estate Excellence Always</h1>
             <h1 class="abouth1">Vision</h1>
             <h2 class="abouth2">We are committed to creating a transparent system and environment that 
               ensures that clients feel secure doing business with us amidst concerns of fraud 
