@@ -1,0 +1,106 @@
+[
+    {
+      "id": 1,
+      "image": "Listings/comingsoon1.webp",
+      "images": ["Listings/House1File/comingsoon2.webp", "Listings/House1File/comingsoon3.webp", "Listings/House1File/comingsoon5.webp", "Listings/House1File/comingsoon6.webp"],
+      "name": "3 Bedroom Terrace Duplex/BQ - Wisdom Court",
+      "location": "Opposite Phase 2, Lekki Gardens",
+      "description": "Discover luxury living with our 3-bedroom and 2-bedroom terrace duplexes, 2-bedroom flats, and miniflats. Enjoy the benefits of a smart home, 24-hour power, constant water supply, top-notch security, and unmatched serenity—all designed for your comfort and peace of mind. With an initial deposit of 27.9 million naira, you can secure your dream property and spread the balance over flexible payment plans",
+      "bed": "3 bedrooms",
+      "shower": "3 bathrooms",
+      "price": "₦93,000,000",
+      "category": "Buy"
+    },
+    {
+      "id": 2,
+      "image": "Listings/Ikegun.webp",
+      "name": "PLOTS OF LAND AT IKEGUN",
+      "location": "Ikegun, Lagos",
+      "description": "In Lagos, living by the seaside evokes mixed reactions—from outright dismissal to keen interest in owning an acre near the shore. Amidst the city’s constant hustle, such a retreat promises rare relaxation and abundant business opportunities, from resorts and hotels to water sports centers and seaside restaurants. This property in Ikegun, beckons entrepreneurs to seize these promising prospects.",
+      "price": "₦3,000,000,000",
+      "size": "600 square meters",
+      "video": "Listings/Ikegun/Ikegun-web.mp4",
+      "category": "Land"
+    },
+    {
+      "id": 3,
+      "image": "Listings/Ogombo.webp",
+      "images": ["Listings/House2File/Ogongbo1.webp", "Listings/House2File/Ogongbo2.webp", "Listings/House2File/Ogongbo3.webp", "Listings/House2File/Ogongbo4.webp", "Listings/House2File/Ogongbo5.webp", "Listings/House2File/Ogongbo6.webp", "Listings/House2File/Ogongbo7.webp", "Listings/House2File/Ogongbo8.webp", "Listings/House2File/Ogongbo9.webp", "Listings/House2File/Ogongbo10.webp"],
+      "name": "Fully Furnished Smart Home",
+      "location": "Ogombo",
+      "description": "Experience living in a brand new, luxurious, fully furnished 3 bedroom duplex at Ogombo with features such as, - Inbuilt Speakers, 24/7 Security, POP Ceiling, Water Heater, Water Treatment, 24/7 Power, Walk-in shower, Fully fitted kitchen, Oven, ⁠Motion sensor light and many more! Don't miss out of this opportunity to own a stunning home fully equipped for comfort. Contact us today to schedule a viewing and make this building your home.",
+      "bed": "3 bedrooms",
+      "shower": "3 bathrooms",
+      "price": "₦180,000,000",
+      "category": "Buy"
+    },
+    {
+      "id": 4,
+      "image": "Listings/comingsoon5.webp",
+      "images": ["Listings/House1File/comingsoon2.webp", "Listings/House1File/comingsoon3.webp", "Listings/House1File/comingsoon5.webp", "Listings/House1File/comingsoon6.webp"],
+      "name": "2 Bedroom Terrace Duplex/BQ - Wisdom Court",
+      "location": "Opposite Phase 2, Lekki Gardens",
+      "description": "Discover luxury living with our 3-bedroom and 2-bedroom terrace duplexes, 2-bedroom flats, and miniflats. Enjoy the benefits of a smart home, 24-hour power, constant water supply, top-notch security, and unmatched serenity—all designed for your comfort and peace of mind. With an initial deposit of 24.9 million naira, you can secure your dream property and spread the balance over flexible payment plans.",
+      "bed": "2 bedrooms",
+      "shower": "2 bathrooms",
+      "price": "₦83,000,000",
+      "category": "Buy"
+    },
+    {
+      "id": 5,
+      "image": "Listings/comingsoon7.webp",
+      "images": ["Listings/House1File/comingsoon2.webp", "Listings/House1File/comingsoon3.webp", "Listings/House1File/comingsoon5.webp", "Listings/House1File/comingsoon6.webp"],
+      "name": "2 Bedroom Flat - Wisdom Court",
+      "location": "Opposite Phase 2, Lekki Gardens",
+      "description": "Discover luxury living with our 3-bedroom and 2-bedroom terrace duplexes, 2-bedroom flats, and miniflats. Enjoy the benefits of a smart home, 24-hour power, constant water supply, top-notch security, and unmatched serenity—all designed for your comfort and peace of mind. With an initial deposit of 19.5 million naira, you can secure your dream property and spread the balance over flexible payment plans",
+      "bed": "2 bedrooms",
+      "shower": "2 bathrooms",
+      "price": "₦65,000,000",
+      "category": "Buy"
+    },
+    {
+      "id": 6,
+      "image": "Listings/comingsoon6.webp",
+      "images": ["Listings/House1File/comingsoon2.webp", "Listings/House1File/comingsoon3.webp", "Listings/House1File/comingsoon5.webp", "Listings/House1File/comingsoon6.webp"],
+      "name": "1 Bedroom Flat - Wisdom Court",
+      "location": "Opposite Phase 2, Lekki Gardens",
+      "description": "Discover luxury living with our 3-bedroom and 2-bedroom terrace duplexes, 2-bedroom flats, and miniflats. Enjoy the benefits of a smart home, 24-hour power, constant water supply, top-notch security, and unmatched serenity—all designed for your comfort and peace of mind. With an initial deposit of 12 million naira, you can secure your dream property and spread the balance over flexible payment plans",
+      "bed": "1 bedrooms",
+      "shower": "1 bathrooms",
+      "price": "₦40,000,000",
+      "category": "Buy"
+    },
+    {
+      "id": 8,
+      "image": "Listings/Elerangbe.webp",
+      "name": "PLOTS OF LAND AT ELERANGBE",
+      "location": "Elerangbe, Lagos",
+      "description": "By now it should have been registered it in your subconscious that this Elerangbe saga is no joke. This is the best offer you can get at a time like this. The best time to subscribe is now!!!",
+      "price": "₦5,000,000",
+      "size": "600 square meters",
+      "video": "Listings/Elerangbe/Elerangbe-web.mp4",
+      "category": "Land"
+    },
+    {
+      "id": 12,
+      "image": "Listings/Akodo.webp",
+      "name": "PLOTS OF LAND AT AKODO",
+      "location": "Akodo, Lagos",
+      "description": "AKODO is one of the fastest developing areas in Lagos State. The plots of land sold around that axis shares road (which is currently under construction) with the most outstanding landmark in that area, the Dangote Refinery. What do you think about owning properties in such a prospective location??",
+      "price": "₦20,000,000",
+      "size": "600 square meters",
+      "video": "Listings/Akodo/Akodo.mp4",
+      "category": "Land"
+    },
+    {
+      "id": 13,
+      "image": "Listings/Sangotedo.webp",
+      "name": "PLOTS OF LAND BEHIND MONASTERY ROAD",
+      "location": "Monastery Road, Sangotedo",
+      "description": "PLOTS OF LAND BEHIND MONASTERY ROAD (5 minutes drive from SHOPRITE), SANGOTEDO FOR SALE Price: N25 million Title Document: C of O Size: 600m² Landmarks: - Mater Ecclesiae Monastery - Shoprite - Dominos Pizza- Beach",
+      "price": "₦25,000,000",
+      "size": "600 square meters",
+      "video": "Listings/Ikegun/wisdomprogress.mp4",
+      "category": "Land"
+    }
+  ]

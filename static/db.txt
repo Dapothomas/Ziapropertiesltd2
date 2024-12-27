@@ -1,0 +1,337 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "image": "Listings/House3.jpg",
+      "location": "Banana Island, Lagos",
+      "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+      "bed": "3 bedrooms",
+      "shower": "3 bathrooms",
+      "price": "₦250,000,000",
+      "category": "Land"
+    },
+    {
+      "id": 2,
+      "image": "Listings/House1.jpg",
+      "location": "Banana Island, Lagos",
+      "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+      "bed": "3 bedrooms",
+      "shower": "3 bathrooms",
+      "price": "₦330,000,000",
+      "category": "Rent"
+    },
+    {
+      "id": 3,
+      "image": "Listings/House2.jpg",
+      "location": "Banana Island, Lagos",
+      "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+      "bed": "3 bedrooms",
+      "shower": "3 bathrooms",
+      "price": "₦300,000,000",
+      "category": "Buy"
+    },
+    {
+      "id": 4,
+      "image": "Listings/House2.jpg",
+      "location": "Banana Island, Lagos",
+      "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+      "bed": "3 bedrooms",
+      "shower": "3 bathrooms",
+      "price": "₦300,000,000",
+      "category": "Rent"
+    },
+    {
+      "id": 5,
+      "image": "Listings/House2.jpg",
+      "location": "Banana Island, Lagos",
+      "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+      "bed": "3 bedrooms",
+      "shower": "3 bathrooms",
+      "price": "₦450,000,000",
+      "category": "Land"
+    },
+    {
+      "id": 6,
+      "image": "Listings/House3.jpg",
+      "location": "Banana Island, Lagos",
+      "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+      "bed": "3 bedrooms",
+      "shower": "3 bathrooms",
+      "price": "₦250,000,000",
+      "category": "Buy"
+    },
+    {
+      "id": 7,
+      "image": "Listings/House1.jpg",
+      "location": "Banana Island, Lagos",
+      "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+      "bed": "3 bedrooms",
+      "shower": "3 bathrooms",
+      "price": "₦330,000,000",
+      "category": "Rent"
+    },
+    {
+      "id": 8,
+      "image": "Listings/House2.jpg",
+      "location": "Banana Island, Lagos",
+      "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+      "bed": "3 bedrooms",
+      "shower": "3 bathrooms",
+      "price": "₦300,000,000",
+      "category": "Land"
+    },
+    {
+      "id": 9,
+      "image": "Listings/House2.jpg",
+      "location": "Banana Island, Lagos",
+      "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+      "bed": "3 bedrooms",
+      "shower": "3 bathrooms",
+      "price": "₦300,000,000",
+      "category": "Buy"
+    },
+    {
+      "id": 10,
+      "image": "Listings/House2.jpg",
+      "location": "Banana Island, Lagos",
+      "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+      "bed": "3 bedrooms",
+      "shower": "3 bathrooms",
+      "price": "₦450,000,000",
+      "category": "Rent"
+    },
+    {
+      "id": 11,
+      "image": "Listings/House3.jpg",
+      "location": "Banana Island, Lagos",
+      "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+      "bed": "3 bedrooms",
+      "shower": "3 bathrooms",
+      "price": "₦250,000,000",
+      "category": "Land"
+    },
+    {
+      "id": 12,
+      "image": "Listings/House1.jpg",
+      "location": "Banana Island, Lagos",
+      "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+      "bed": "3 bedrooms",
+      "shower": "3 bathrooms",
+      "price": "₦330,000,000",
+      "category": "Buy"
+    },
+    {
+      "id": 13,
+      "image": "Listings/House2.jpg",
+      "location": "Banana Island, Lagos",
+      "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+      "bed": "3 bedrooms",
+      "shower": "3 bathrooms",
+      "price": "₦300,000,000",
+      "category": "Rent"
+    },
+    {
+      "id": 14,
+      "image": "Listings/House2.jpg",
+      "location": "Banana Island, Lagos",
+      "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+      "bed": "3 bedrooms",
+      "shower": "3 bathrooms",
+      "price": "₦300,000,000",
+      "category": "Buy"
+    },
+    {
+      "id": 15,
+      "image": "Listings/House2.jpg",
+      "location": "Banana Island, Lagos",
+      "description": "Nicely finished 5&4 Beds fully Detached-Duplex",
+      "bed": "3 bedrooms",
+      "shower": "3 bathrooms",
+      "price": "₦450,000,000",
+      "category": "Rent"
+    }
+  ],
+  
+    "propertyDetails": [
+      {
+        "id": 1,
+        "image": "Listings/House1.jpg",
+        "images": ["Listings/House1File/House8.jpg", "Listings/House1File/House5.jpg", "Listings/House1File/House6.jpg", "Listings/House1File/House7.jpg"],
+        "name": "Nicely finished 5&4 Beds fully Detached-Duplex",
+        "location": "Phase 2 Lekki Gardens",
+        "description": "Nestled along the serene coastline, this stunning 4-bedroom waterfront villa offers breathtaking ocean views from every room. Featuring a spacious open-concept living area, floor-to-ceiling windows, a state-of-the-art kitchen, and a private infinity pool, this property is the epitome of luxury living. Enjoy tranquil evenings on your expansive terrace, watching the sunset over the horizon.",
+        "bed": "3 bedrooms",
+        "shower": "3 bathrooms",
+        "price": "₦250,000,000",
+        "category": "Rent"
+      },
+      {
+        "id": 2,
+        "image": "Listings/House2.jpg",
+        "images": ["Listings/House1File/House8.jpg", "Listings/House1File/House5.jpg", "Listings/House1File/House6.jpg", "Listings/House1File/House7.jpg"],
+        "name": "Nicely finished 5&4 Beds fully Detached-Duplex",
+        "location": "Banana Island, Lagos",
+        "description": "This sleek and contemporary 5-bedroom urban retreat is located in the heart of the city, offering the perfect blend of style and convenience. The home boasts an open floor plan with high ceilings, a gourmet kitchen with stainless steel appliances, and a rooftop deck with panoramic city views. Ideal for entertaining, the spacious living areas are flooded with natural light.",
+        "bed": "3 bedrooms",
+        "shower": "3 bathrooms",
+        "price": "₦330,000,000",
+        "category": "Land"
+      },
+      {
+        "id": 3,
+        "image": "Listings/House3.jpg",
+        "images": ["Listings/House1File/House8.jpg", "Listings/House1File/House5.jpg", "Listings/House1File/House6.jpg", "Listings/House1File/House7.jpg"],
+        "name": "Nicely finished 5&4 Beds fully Detached-Duplex",
+        "location": "Banana Island, Lagos",
+        "description": "Experience the charm of country living in this cozy 3-bedroom cottage, surrounded by lush greenery and rolling hills. The home features a rustic stone fireplace, a fully equipped farmhouse kitchen, and a wraparound porch perfect for enjoying peaceful mornings. The large, private garden is ideal for gardening enthusiasts or those seeking a tranquil escape.",
+        "bed": "3 bedrooms",
+        "shower": "3 bathrooms",
+        "price": "₦300,000,000",
+        "category": "Rent"
+      },
+      {
+        "id": 4,
+        "image": "Listings/House4.jpg",
+        "images": ["Listings/House1File/House8.jpg", "Listings/House1File/House5.jpg", "Listings/House1File/House6.jpg", "Listings/House1File/House7.jpg"],
+        "name": "Nicely finished 5&4 Beds fully Detached-Duplex",
+        "location": "Banana Island, Lagos",
+        "description": "Situated in a prestigious neighborhood, this elegant 6-bedroom estate combines timeless architecture with modern amenities. The grand foyer welcomes you with a sweeping staircase and marble floors, leading to a spacious living room with a fireplace and a formal dining room. The property includes a gourmet kitchen, a home theater, and a resort-style backyard with a pool and spa.",
+        "bed": "3 bedrooms",
+        "shower": "3 bathrooms",
+        "price": "₦300,000,000",
+        "category": "Buy"
+      },
+      {
+        "id": 5,
+        "image": "Listings/House2.jpg",
+        "images": ["Listings/House1File/House8.jpg", "Listings/House1File/House5.jpg", "Listings/House1File/House6.jpg", "Listings/House1File/House7.jpg"],
+        "name": "Nicely finished 5&4 Beds fully Detached-Duplex",
+        "location": "Banana Island, Lagos",
+        "description": "Perfect for a growing family, this spacious 4-bedroom home is located in a quiet, family-friendly neighborhood. The property features a large open-plan kitchen and living area, a playroom, and a home office. The master suite includes a walk-in closet and an en-suite bathroom. Outside, the well-maintained garden offers plenty of space for outdoor activities and includes a patio for al fresco dining.",
+        "bed": "3 bedrooms",
+        "shower": "3 bathrooms",
+        "price": "₦450,000,000",
+        "category": "Rent"
+      },{
+        "id": 6,
+        "image": "Listings/House1.jpg",
+        "images": ["Listings/House1File/House8.jpg", "Listings/House1File/House5.jpg", "Listings/House1File/House6.jpg", "Listings/House1File/House7.jpg"],
+        "name": "Nicely finished 5&4 Beds fully Detached-Duplex",
+        "location": "Phase 2 Lekki Gardens",
+        "description": "Nestled along the serene coastline, this stunning 4-bedroom waterfront villa offers breathtaking ocean views from every room. Featuring a spacious open-concept living area, floor-to-ceiling windows, a state-of-the-art kitchen, and a private infinity pool, this property is the epitome of luxury living. Enjoy tranquil evenings on your expansive terrace, watching the sunset over the horizon.",
+        "bed": "3 bedrooms",
+        "shower": "3 bathrooms",
+        "price": "₦250,000,000",
+        "category": "Rent"
+      },
+      {
+        "id": 7,
+        "image": "Listings/House2.jpg",
+        "images": ["Listings/House1File/House8.jpg", "Listings/House1File/House5.jpg", "Listings/House1File/House6.jpg", "Listings/House1File/House7.jpg"],
+        "name": "Nicely finished 5&4 Beds fully Detached-Duplex",
+        "location": "Banana Island, Lagos",
+        "description": "This sleek and contemporary 5-bedroom urban retreat is located in the heart of the city, offering the perfect blend of style and convenience. The home boasts an open floor plan with high ceilings, a gourmet kitchen with stainless steel appliances, and a rooftop deck with panoramic city views. Ideal for entertaining, the spacious living areas are flooded with natural light.",
+        "bed": "3 bedrooms",
+        "shower": "3 bathrooms",
+        "price": "₦330,000,000",
+        "category": "Buy"
+      },
+      {
+        "id": 8,
+        "image": "Listings/House3.jpg",
+        "images": ["Listings/House1File/House8.jpg", "Listings/House1File/House5.jpg", "Listings/House1File/House6.jpg", "Listings/House1File/House7.jpg"],
+        "name": "Nicely finished 5&4 Beds fully Detached-Duplex",
+        "location": "Banana Island, Lagos",
+        "description": "Experience the charm of country living in this cozy 3-bedroom cottage, surrounded by lush greenery and rolling hills. The home features a rustic stone fireplace, a fully equipped farmhouse kitchen, and a wraparound porch perfect for enjoying peaceful mornings. The large, private garden is ideal for gardening enthusiasts or those seeking a tranquil escape.",
+        "bed": "3 bedrooms",
+        "shower": "3 bathrooms",
+        "price": "₦300,000,000",
+        "category": "Land"
+      },
+      {
+        "id": 9,
+        "image": "Listings/House4.jpg",
+        "images": ["Listings/House1File/House8.jpg", "Listings/House1File/House5.jpg", "Listings/House1File/House6.jpg", "Listings/House1File/House7.jpg"],
+        "name": "Nicely finished 5&4 Beds fully Detached-Duplex",
+        "location": "Banana Island, Lagos",
+        "description": "Situated in a prestigious neighborhood, this elegant 6-bedroom estate combines timeless architecture with modern amenities. The grand foyer welcomes you with a sweeping staircase and marble floors, leading to a spacious living room with a fireplace and a formal dining room. The property includes a gourmet kitchen, a home theater, and a resort-style backyard with a pool and spa.",
+        "bed": "3 bedrooms",
+        "shower": "3 bathrooms",
+        "price": "₦300,000,000",
+        "category": "Rent"
+      },
+      {
+        "id": 10,
+        "image": "Listings/House2.jpg",
+        "images": ["Listings/House1File/House8.jpg", "Listings/House1File/House5.jpg", "Listings/House1File/House6.jpg", "Listings/House1File/House7.jpg"],
+        "name": "Nicely finished 5&4 Beds fully Detached-Duplex",
+        "location": "Banana Island, Lagos",
+        "description": "Perfect for a growing family, this spacious 4-bedroom home is located in a quiet, family-friendly neighborhood. The property features a large open-plan kitchen and living area, a playroom, and a home office. The master suite includes a walk-in closet and an en-suite bathroom. Outside, the well-maintained garden offers plenty of space for outdoor activities and includes a patio for al fresco dining.",
+        "bed": "3 bedrooms",
+        "shower": "3 bathrooms",
+        "price": "₦450,000,000",
+        "category": "Buy"
+      },
+      {
+        "id": 11,
+        "image": "Listings/House1.jpg",
+        "images": ["Listings/House1File/House8.jpg", "Listings/House1File/House5.jpg", "Listings/House1File/House6.jpg", "Listings/House1File/House7.jpg"],
+        "name": "Nicely finished 5&4 Beds fully Detached-Duplex",
+        "location": "Phase 2 Lekki Gardens",
+        "description": "Nestled along the serene coastline, this stunning 4-bedroom waterfront villa offers breathtaking ocean views from every room. Featuring a spacious open-concept living area, floor-to-ceiling windows, a state-of-the-art kitchen, and a private infinity pool, this property is the epitome of luxury living. Enjoy tranquil evenings on your expansive terrace, watching the sunset over the horizon.",
+        "bed": "3 bedrooms",
+        "shower": "3 bathrooms",
+        "price": "₦250,000,000",
+        "category": "Buy"
+      },
+      {
+        "id": 12,
+        "image": "Listings/House2.jpg",
+        "images": ["Listings/House1File/House8.jpg", "Listings/House1File/House5.jpg", "Listings/House1File/House6.jpg", "Listings/House1File/House7.jpg"],
+        "name": "Nicely finished 5&4 Beds fully Detached-Duplex",
+        "location": "Banana Island, Lagos",
+        "description": "This sleek and contemporary 5-bedroom urban retreat is located in the heart of the city, offering the perfect blend of style and convenience. The home boasts an open floor plan with high ceilings, a gourmet kitchen with stainless steel appliances, and a rooftop deck with panoramic city views. Ideal for entertaining, the spacious living areas are flooded with natural light.",
+        "bed": "3 bedrooms",
+        "shower": "3 bathrooms",
+        "price": "₦330,000,000",
+        "category": "Land"
+      },
+      {
+        "id": 13,
+        "image": "Listings/House3.jpg",
+        "images": ["Listings/House1File/House8.jpg", "Listings/House1File/House5.jpg", "Listings/House1File/House6.jpg", "Listings/House1File/House7.jpg"],
+        "name": "Nicely finished 5&4 Beds fully Detached-Duplex",
+        "location": "Banana Island, Lagos",
+        "description": "Experience the charm of country living in this cozy 3-bedroom cottage, surrounded by lush greenery and rolling hills. The home features a rustic stone fireplace, a fully equipped farmhouse kitchen, and a wraparound porch perfect for enjoying peaceful mornings. The large, private garden is ideal for gardening enthusiasts or those seeking a tranquil escape.",
+        "bed": "3 bedrooms",
+        "shower": "3 bathrooms",
+        "price": "₦300,000,000",
+        "category": "Land"
+      },
+      {
+        "id": 14,
+        "image": "Listings/House4.jpg",
+        "images": ["Listings/House1File/House8.jpg", "Listings/House1File/House5.jpg", "Listings/House1File/House6.jpg", "Listings/House1File/House7.jpg"],
+        "name": "Nicely finished 5&4 Beds fully Detached-Duplex",
+        "location": "Banana Island, Lagos",
+        "description": "Situated in a prestigious neighborhood, this elegant 6-bedroom estate combines timeless architecture with modern amenities. The grand foyer welcomes you with a sweeping staircase and marble floors, leading to a spacious living room with a fireplace and a formal dining room. The property includes a gourmet kitchen, a home theater, and a resort-style backyard with a pool and spa.",
+        "bed": "3 bedrooms",
+        "shower": "3 bathrooms",
+        "price": "₦300,000,000",
+        "category": "Buy"
+      },
+      {
+        "id": 15,
+        "image": "Listings/House2.jpg",
+        "images": ["Listings/House1File/House8.jpg", "Listings/House1File/House5.jpg", "Listings/House1File/House6.jpg", "Listings/House1File/House7.jpg"],
+        "name": "Nicely finished 5&4 Beds fully Detached-Duplex",
+        "location": "Banana Island, Lagos",
+        "description": "Perfect for a growing family, this spacious 4-bedroom home is located in a quiet, family-friendly neighborhood. The property features a large open-plan kitchen and living area, a playroom, and a home office. The master suite includes a walk-in closet and an en-suite bathroom. Outside, the well-maintained garden offers plenty of space for outdoor activities and includes a patio for al fresco dining.",
+        "bed": "3 bedrooms",
+        "shower": "3 bathrooms",
+        "price": "₦450,000,000",
+        "category": "Rent"
+      }
+    ]
+  }
+  

@@ -1,0 +1,88 @@
+[
+{
+    "id": 1,
+    "image": "Listings/comingsoon1.webp",
+    "location": "Opposite Phase 2, Lekki Gardens",
+    "description": "3 Bedroom Terrace Duplex/BQ - Wisdom Court",
+    "bed": "3 bedrooms",
+    "shower": "3 bathrooms",
+    "price": "₦93,000,000",
+    "category": "Buy"
+  },
+  {
+    "id": 2,
+    "image": "Listings/Ikegun.webp",
+    "location": "Ikegun, Lagos",
+    "description": "PLOTS OF LAND AT IKEGUN",
+    "size": "600 square meters",
+    "price": "₦3,000,000,000",
+    "category": "Land"
+  },
+  {
+    "id": 3,
+    "image": "Listings/Ogombo.webp",
+    "location": "Ogombo",
+    "description": "Fully Furnished Smart Home",
+    "bed": "3 bedrooms",
+    "shower": "3 bathrooms",
+    "price": "₦180,000,000",
+    "category": "Buy"
+  },
+  {
+    "id": 4,
+    "image": "Listings/comingsoon5.webp",
+    "location": "Opposite Phase 2, Lekki Gardens",
+    "description": "2 Bedroom Terrace Duplex/BQ - Wisdom Court",
+    "bed": "2 bedrooms",
+    "shower": "2 bathrooms",
+    "price": "₦83,000,000",
+    "category": "Buy"
+  },
+  {
+    "id": 5,
+    "image": "Listings/comingsoon7.webp",
+    "location": "Opposite Phase 2, Lekki Gardens",
+    "description": "2 Bedroom Flat - Wisdom Court",
+    "bed": "2 bedrooms",
+    "shower": "2 bathrooms",
+    "price": "₦65,000,000",
+    "category": "Buy"
+  },
+  {
+    "id": 6,
+    "image": "Listings/comingsoon6.webp",
+    "location": "Opposite Phase 2, Lekki Gardens",
+    "description": "1 Bedroom Flat - Wisdom Court",
+    "bed": "1 bedrooms",
+    "shower": "1 bathrooms",
+    "price": "₦40,000,000",
+    "category": "Buy"
+  },
+  {
+    "id": 8,
+    "image": "Listings/Elerangbe.webp",
+    "location": "Elerangbe, Lagos",
+    "description": "PLOTS OF LAND AT ELERANGBE",
+    "size": "600 square meters",
+    "price": "₦5,000,000",
+    "category": "Land"
+  },
+  {
+    "id": 12,
+    "image": "Listings/Akodo.webp",
+    "location": "Akodo, Lagos",
+    "description": "PLOTS OF LAND AT AKODO",
+    "size": "600 square meters",
+    "price": "₦20,000,000",
+    "category": "Land"
+  },
+  {
+    "id": 13,
+    "image": "Listings/Sangotedo.webp",
+    "location": "Monastery Road, Sangotedo",
+    "description": "PLOTS OF LAND BEHIND MONASTERY ROAD",
+    "size": "600 square meters",
+    "price": "₦25,000,000",
+    "category": "Land"
+  }
+]
