@@ -225,7 +225,7 @@ export default {
 {
   animation: fadeOut 1s forwards, fadeIn 1s forwards;
 } */
-.abouth1d::before
+/* .abouth1d::before
 {
   content: '';
   position: absolute;
@@ -237,7 +237,7 @@ export default {
   background-color: var(--company-color);
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   z-index: -1;
-}
+} */
 @media(max-width:480px){
   .abouth1d::before{
     display: none;
@@ -553,13 +553,17 @@ margin-top: clamp(5px, 1vw, 10px);
 } */
 .Aboutus2
 {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    align-self: center;
-    place-items: center;
-    gap: clamp(35px, 5vw, 80px);
-    justify-self: center;
-    justify-content: space-between;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  font-family: 'Poppins';
+  gap: clamp(20px, 5vw, 100px);
+  position: relative;
+  width: 100%;
+  font-size: clamp(16px, 1.5vw, 20px);
+  font-weight: 600;
+  color: rgb(237, 237, 237); 
 }
 @media (max-width: 864px)
 {
@@ -568,6 +572,22 @@ margin-top: clamp(5px, 1vw, 10px);
     margin-bottom: 50px;
     display: flex;
   }
+}
+@media (max-width: 1300px)
+{
+  .Aboutus2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  font-family: 'Poppins';
+  gap: 20px;
+  position: relative;
+  width: 100%;
+  font-size: clamp(16px, 1.5vw, 20px);
+  font-weight: 600;
+  color: rgb(237, 237, 237); 
+}
 }
 .aboutusimg2 {
   width: clamp(250px, 50vw, 650px);

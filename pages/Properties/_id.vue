@@ -34,7 +34,7 @@ export default {
     
     const slides = property ? property.images || [] : [];
     const formattedAddress = property ? encodeURIComponent(property.location) : '';
-    const googleMapsUrl = `{YOURAPIKEY}=${formattedAddress}`;
+    const googleMapsUrl = `https://www.google.com/maps/embed/v1/place?key=AIzaSyDZ9fTWN2psoqnHAwNvyJF6LeVg2RQalaA&q=${formattedAddress}`;
     return { property, slides, googleMapsUrl };
   } catch (error) {
     console.error('Error fetching property:', error);
@@ -156,13 +156,13 @@ export default {
     transform: translateY(-50%);
     width: 20px;
     height: 20px;
-    fill: #888; /* Change this color to match your design */
+    fill: #888; 
 }
 .input-wrapper3 input {
-    padding-left: 40px; /* Leave space for the SVG icon */
+    padding-left: 40px;
 }
 .input-wrapper3 textarea{
-    padding-left: 40px; /* Leave space for the SVG icon */
+    padding-left: 40px; 
 }
 
 .innerside2
@@ -386,7 +386,7 @@ export default {
     background-attachment: fixed;
     filter: brightness(50%) blur(4px);
     z-index: -1; 
-    animation: zoomInOut 20s infinite alternate ease-in-out; /* Adjust timing as needed */
+    animation: zoomInOut 20s infinite alternate ease-in-out;
 }
 
 @keyframes zoomInOut {

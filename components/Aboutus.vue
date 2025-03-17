@@ -56,14 +56,19 @@
 }
 .Aboutus
 {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: clamp(200px, 10vw, 300px);
-    align-self: center;
-    place-items: center;
-    padding-bottom: clamp(20px, 10vw, 100px);
-    justify-self: center;
-    justify-content: space-between;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: clamp(50px, 15vw, 300px);
+  font-family: 'Poppins';
+  position: relative;
+  width: 100%;
+  line-height: 25px;
+  font-size: clamp(16px, 1.5vw, 20px);
+  padding-bottom: clamp(20px, 10vw, 100px);
+  font-weight: 600;
+  color: rgb(237, 237, 237); 
 }
 @media (max-width: 840px)
 {
